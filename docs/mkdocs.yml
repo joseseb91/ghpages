@@ -1,7 +1,6 @@
 site_name: NP PE Docs
 site_url: https://mkdocs.example.com/
 docs_dir: docs
-site_dir: /site
 repo_url: https://github.com/joseseb91/ghpahes
 repo_name: joseseb91/ghpahes
 edit_uri: edit/main/docs/docs/
